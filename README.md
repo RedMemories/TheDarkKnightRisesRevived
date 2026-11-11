@@ -48,8 +48,12 @@ Original game by Gameloft.
 
 ## ☕ Support my work
 
-If you enjoy my projects and would like to support my work, you can buy me a coffee on Ko-fi! Every project I create is and will always remain free, but any support is greatly appreciated and helps me keep working on new projects and improvements.
+If you enjoy my projects and would like to support my work, you can send a tip in **USDC on the Polygon network**. Every project I create is and will always remain free, but any support is greatly appreciated and helps me keep working on new projects and improvements.
+
+```
+0x0e1C11ccA29E9D2AAa9384eE0d5464f4d079E61D
+```
+
+⚠️ Send only **USDC on Polygon** to this address: other tokens or networks could be lost.
 
 Thank you for your support! ❤️
-
-[ko-fi.com/redmemories_ita](https://ko-fi.com/redmemories_ita)
